@@ -25,17 +25,17 @@ TEDAC grip buttons/switches are also named left to right, top to bottom. Example
 | TFP-T3MP  | PNV         | JP1-TOP   | 1-3            | TFPT   | |
 | TFP-T4MP  | G/S         | JP1-TOP   | 1-4            | TFPT   | |
 | TFP-T5RP  | DayNtOff NF | JP1-TOP   | 1-5            | TFPT   | |
-| TFP-T5RA  | DayNtOff A  | JST1-TOP  | -              | TFPT   | |
-| TFP-T5RB  | DayNtOff B  | JST1-TOP  | -              | TFPT   | |
-| TFP-T5RC  | DayNtOff C  | JST1-TOP  | -              | TFPT   | |
+| TFP-T5RA  | DayNtOff A  | JST1-TOP  | -              | TFPR1  | |
+| TFP-T5RB  | DayNtOff B  | JST1-TOP  | -              | TFPR1  | |
+| TFP-T5RC  | DayNtOff C  | JST1-TOP  | -              | TFPR1  | |
 | TFP-L1RP  | LEV NF      | JP2-LEFT  | 2-1            | TFPL   | |
-| TFP-L1RA  | LEV A       | JST2-LEFT | -              | TFPL   | |
-| TFP-L1RB  | LEV B       | JST2-LEFT | -              | TFPL   | |
-| TFP-L1RC  | LEV C       | JST2-LEFT | -              | TFPL   | |
+| TFP-L1RA  | LEV A       | JST2-LEFT | -              | TFPR2  | |
+| TFP-L1RB  | LEV B       | JST2-LEFT | -              | TFPR2  | |
+| TFP-L1RC  | LEV C       | JST2-LEFT | -              | TFPR2  | |
 | TFP-L2RP  | GAIN NF     | JP2-LEFT  | 2-2            | TFPL   | |
-| TFP-L2RA  | GAIN A      | JST3-LEFT | -              | TFPL   | |
-| TFP-L2RB  | GAIN B      | JST3-LEFT | -              | TFPL   | |
-| TFP-L2RC  | GAIN C      | JST3-LEFT | -              | TFPL   | |
+| TFP-L2RA  | GAIN A      | JST3-LEFT | -              | TFPR3  | |
+| TFP-L2RB  | GAIN B      | JST3-LEFT | -              | TFPR3  | |
+| TFP-L2RC  | GAIN C      | JST3-LEFT | -              | TFPR3  | |
 | TFP-L3MP  | R/F UP      | JP3-LEFT  | 2-3            | TFPL   | |
 | TFP-L4MP  | R/F DOWN    | JP3-LEFT  | 2-4            | TFPL   | |
 | TFP-L5MP  | EL UP       | JP3-LEFT  | 2-5            | TFPL   | |
