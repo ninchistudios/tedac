@@ -178,6 +178,6 @@ All matrix pins on a specific grip switch are on the same matrix row for ease of
 | TGR12     | JST XH x2        | Master PCB           | Master for Right Grip Switch 12       |
 | TGR13     | JST XH x2        | Master PCB           | Master for Right Grip Switch 13       |
 | TGR14     | JST XH x2        | Master PCB           | Master for Right Grip Switch 14       |
-| JP8       | 10x2 Dupont Male | Master PCB           | 10x10 Matrix Master to Mega           |
-| JP9       | 7x1 Dupont Male  | Master PCB           | 6 + 1GND Rotary Enc Master to Mega    |
-| JP10      | 5x1 Dupont Male  | Master PCB           | 4 + 1GND Joystick Axes Master to Mega |
+| MATRIX    | 10x2 Dupont Male | Master PCB           | 10x10 Matrix Master to Mega           |
+| ENCS      | 7x1 Dupont Male  | Master PCB           | 6 + 1GND Rotary Enc Master to Mega    |
+| AXES      | 5x1 Dupont Male  | Master PCB           | 4 + 1GND Joystick Axes Master to Mega |
