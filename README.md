@@ -13,3 +13,13 @@ Some compromises have been made as follows:
 * The TEDAC faceplate DAY/NT/OFF rotary switch has been replaced with a rotary encoder. I just couldn't find a rotary selector switch small enough to fit.
 * The TEDAC LCD used is a smaller 5" 800x480 display as that's what I had on hand. As I'm only using the TEDAC with VR, the LCD is not in use during gameplay so is really only there for cool factor and debug information.  
 * The structural mount is designed as a 12mm ply box to fit my cockpit. You will most likely have to design your own structural element to suit your situation. The TEDAC itself is designed into 3 functional parts - faceplate and left/right grips - which can be mounted as you need and can be disconnected individually for maintenance.
+
+## Hardware
+
+You will need the following parts:
+
+### Faceplate
+* 21 x 6mm THT tactile button (I used 10mm stalk)
+* 3 x 15mm THT rotary encoder EC11 (I used 20mm half handle)
+
+### Left Grip
